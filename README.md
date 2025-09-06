@@ -4,9 +4,6 @@ Olá! Eu sou Felicio Pereira
 Front-end em evolução — construindo projetos leves, responsivos e divertidos.
 Foco atual: 
 
-
-## 🚀 Tecnologias que eu uso
-
 ## 🚀 Tecnologias que eu uso
 
 <p align="left">
