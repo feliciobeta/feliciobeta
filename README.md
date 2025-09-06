@@ -12,4 +12,5 @@ Foco atual:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliciobeta&show_icons=true&theme=transparent)
+
+[![felicio GitHub stats](https://github-readme-stats.vercel.app/api?username=Feliciobeta)](https://github.com/anuraghazra/github-readme-stats)
